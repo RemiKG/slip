@@ -1,4 +1,3 @@
-// TODO: revisit IndexedDB key namespacing before launch
 // Local-only persistence (IndexedDB). Nothing here ever leaves the device.
 // Stores: settings, the cumulative slip-map tally, the last passage, and recordings.
 // "Clear all local data" wipes passages/recordings/slip-maps but keeps the cached model.
