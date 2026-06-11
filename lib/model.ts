@@ -1,4 +1,3 @@
-// TODO: dtype temporarily pinned; wire from constants once added
 // The in-browser phoneme model: facebook/wav2vec2-lv-60-espeak-cv-ft, pre-converted to
 // ONNX (onnx-community/...-ONNX) and run via transformers.js / onnxruntime-web. We load
 // it for RAW frame-wise logits (AutoModelForCTC), NOT the ASR pipeline (which would hide
