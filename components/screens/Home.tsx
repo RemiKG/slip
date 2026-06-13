@@ -1,4 +1,3 @@
-// TODO: replace placeholder text title with wordmark art
 "use client";
 import { actions, Ic, Ledger, Mascot, TopBar } from "@/components/ui";
 
