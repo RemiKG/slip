@@ -1,4 +1,3 @@
-// WIP: experimenting with highlight severity threshold
 "use client";
 import { actions, Ic, Mascot, TopBar } from "@/components/ui";
 import { useStore } from "@/lib/store";
