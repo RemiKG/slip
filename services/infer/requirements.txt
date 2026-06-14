@@ -1,0 +1,7 @@
+# Slip phoneme inference seam. CPU torch is plenty for one short clip at a time.
+fastapi>=0.111,<1
+uvicorn[standard]>=0.30
+transformers>=4.44,<6
+torch>=2.2
+numpy>=1.26
+soundfile>=0.12  # only needed for the /infer_audio (WAV/FLAC) convenience path
