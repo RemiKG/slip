@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect x="0" y="0" width="512" height="512" rx="120" fill="#243842"/>
+  <g transform="translate(34,40) scale(1.72)">
+    <!-- cream ear silhouette -->
+    <path d="M126 44 C 158 34 192 50 196 88 C 200 122 190 150 178 172 C 166 196 150 212 126 210
+             C 104 208 92 190 96 168 C 78 172 64 150 70 120 C 74 92 96 54 126 44 Z" fill="#FAF6EF"/>
+    <!-- concha curl cut in ink -->
+    <path d="M156 150 C 120 166 92 146 100 114 C 106 92 140 86 156 106"
+          fill="none" stroke="#243842" stroke-width="15" stroke-linecap="round"/>
+    <!-- amber freckle -->
+    <circle cx="150" cy="186" r="13" fill="#E8A33D"/>
+  </g>
+</svg>

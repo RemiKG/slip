@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect x="0" y="0" width="512" height="512" rx="120" fill="#243842"/>
+  <!-- the slip signature: a cream i-stem with its amber tittle slipped off, caught mid-fall -->
+  <rect x="226" y="250" width="60" height="150" rx="30" fill="#FAF6EF"/>
+  <circle cx="316" cy="196" r="42" fill="#E8A33D"/>
+</svg>
