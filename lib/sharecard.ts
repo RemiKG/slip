@@ -1,4 +1,3 @@
-// TODO: tighten share-card layout on narrow screens
 // On-device share-card export. Renders the live DOM card to a single PNG entirely in the
 // browser (html-to-image embeds the fonts + SVG, so the canvas is never tainted and
 // nothing is uploaded). Includes the Safari/iOS first-render-blank retry, then hands the
