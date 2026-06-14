@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <g fill="none" stroke="#243842" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M126 44
+             C 158 34 192 50 196 88
+             C 200 122 190 150 178 172
+             C 166 196 150 212 126 210
+             C 104 208 92 190 96 168
+             C 78 172 64 150 70 120
+             C 74 92 96 54 126 44 Z"
+          fill="#FFFCF6"/>
+    <path d="M156 150 C 120 166 92 146 100 114 C 106 92 140 86 156 106"/>
+  </g>
+  <circle cx="150" cy="186" r="13" fill="#E8A33D"/>
+  <!-- delight sparkles (encouragement state) -->
+  <path transform="translate(64,74) scale(1.05)" fill="#E8A33D"
+        d="M0 -12 C 1.6 -4 4 -1.6 12 0 C 4 1.6 1.6 4 0 12 C -1.6 4 -4 1.6 -12 0 C -4 -1.6 -1.6 -4 0 -12 Z"/>
+  <path transform="translate(40,128) scale(0.62)" fill="#E8A33D" opacity="0.8"
+        d="M0 -12 C 1.6 -4 4 -1.6 12 0 C 4 1.6 1.6 4 0 12 C -1.6 4 -4 1.6 -12 0 C -4 -1.6 -1.6 -4 0 -12 Z"/>
+</svg>
